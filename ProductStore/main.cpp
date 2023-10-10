@@ -31,6 +31,7 @@ void showProducts(){
 
 
 int main(int argc, char** argv) {
+	cout<<"Hello World";
 	int option=1;
 //    while(option != 7){
 //		cout<< "Choose Option:\n";
